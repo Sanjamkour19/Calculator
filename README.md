@@ -1,1 +1,2 @@
 # Calculator
+This is a simple web-based calculator built using HTML, CSS, and JavaScript. It supports basic arithmetic operations like addition, subtraction, multiplication, and division, along with features like percentage calculation, sign toggle, clear, and decimal input. The layout is clean and responsive, with clickable buttons for user interaction. The logic is handled in a separate JavaScript file, and the design is managed through an external CSS file. Just open the index.html file in any browser to use the calculator.
